@@ -1,1 +1,1 @@
-# FEM-Sympy-Python-
+# FEM-Sympy-Notes
